@@ -1,0 +1,211 @@
+*{
+margin:0;
+padding:0;
+box-sizing:border-box;
+font-family:poppins;
+}
+
+html,body{
+height:100%;
+width:100%;
+font-size: 62.5%;
+/* overflow: hidden; */
+}
+
+body{
+    background-color: black;
+    height: 100%;
+    width: 100%;
+}
+
+#head{
+    color: white;
+   /* font-family: poppins; */
+   margin: 4rem;
+   padding-left: 4%;
+   display: flex;
+   justify-content:space-between;
+   align-items: center;
+   background-color: transparent;
+}
+
+#head h2{
+    font-size: 3rem;
+}
+
+a{
+    color: white;
+    text-decoration: none;
+    margin-left: 10rem;
+    font-size: 2rem;
+    font-weight: 500;
+    position: relative;
+}
+
+a:after {
+    content: "";
+    position: absolute;
+    background-color:rgb(63, 61, 61);
+    height: 0.3rem;
+    width: 0;
+    left: 0;
+    bottom: -1rem;
+    transition: 0.3s;
+}
+
+a:hover {
+    color: #ffffff;
+}
+
+a:hover:after {
+    width: 100%;
+}
+
+h1{
+    color: white;
+    font-size: 5rem;
+    display: flex;
+    justify-content: flex-end;
+    margin-right: 50rem;
+    margin-top: 10rem;
+}
+
+h3{
+    color: white;
+    font-size: 4.5rem;
+    display: flex;
+    justify-content: flex-end;
+    margin-right: 26rem;
+    /* overflow: hidden; */
+}
+
+p{
+    color: darkgrey;
+    margin-left: 67rem;
+    margin-top: 1rem;
+    font-size: 2rem;
+    margin-right: 3rem;
+}
+
+#btn1{
+    height: 4rem;
+    width: 4rem;
+    background-color: transparent;
+    border-radius: 50%;
+    border: 0.2rem solid white;
+    margin-top: 3rem;
+    margin-left: 68rem;
+}
+
+#btn1 i{
+    color: white;
+}
+
+#btn1 i:hover{
+    transform: scale(1.3);
+}
+
+#btn1:hover{
+    transform: scale(1.3);
+}
+
+#btn2{
+    height: 4rem;
+    width: 4rem;
+    background-color: transparent;
+    border-radius: 50%;
+    border: 0.2rem solid white;
+    margin-top: 3rem;
+    margin-left: 2rem;
+    transition: 0.6s;
+}
+
+#btn2 i{
+    color: white;
+}
+
+#btn2:hover{
+    transform: scale(1.3);
+}
+
+#btn2 i:hover{
+    transform: scale(1.3);
+}
+
+img{
+    height: 58rem;
+    margin-left: 25rem;
+    margin-top: 0rem;
+    position: absolute;
+    border-radius: 50%;
+    box-shadow: 0 0.7rem 0.8rem -0.1rem darkgray;
+    background-size: cover;
+    transition: all 1s;
+}
+
+img:hover{
+    transform: scale(1.2);
+}
+
+ #txt span{
+    color: rgb(105, 101, 101);
+}
+
+button{
+    height: 5rem;
+    position: relative;
+    width: 12rem;
+    margin-left: 68rem;
+    margin-top: 2rem;
+    background-color: transparent;
+    border-radius: 4rem;
+    border: 0.3rem solid white;
+    transition: 0.3s ease all;
+    z-index: 1;
+}
+
+button #text{
+    color: white;
+    font-size: 2rem;
+}
+
+button:before{
+    transition: 0.5s all ease;
+    position: absolute;
+    top: 0;
+    left: 50%;
+    right: 50%;
+    bottom: 0;
+    opacity: 0;
+    content:'';
+    background-color: darkgrey;
+    z-index: -1;
+    border-radius: 4rem;
+}
+ 
+button:hover,button:focus{
+    color: white;
+}
+
+button:hover:before,button:focus:before{
+    transition: 0.5s all ease;
+    left: 0;
+    right: 0;
+    opacity: 1;
+}
+
+button:active{
+    transform: scale(0.9);
+}
+
+.txt1 span{
+    color: transparent;
+    -webkit-text-stroke: 0.2rem rgb(52, 48, 48);
+    font-family: poppins;
+    font-weight: 900;
+}
+
+.txt1 span:hover{
+    color: white;
+    transition: all linear 0.7s;
+}
