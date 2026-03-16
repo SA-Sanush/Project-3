@@ -18,17 +18,13 @@ gsap.to("#head nav", {
 
 var btn = document.getElementById("btn")
 btn.onclick = function () {
-    window.location.href = "https://github.com/SA-Sanush"
+    window.location.href = "https://mail.google.com/mail/u/1/#inbox?compose=PNRMKjRmlKdVTnMkXhMdQdTdLtSXshclVMZWlqgGLjrCpCxNBMzRvrsqMnGqBsLnhkQwllLXmDtJQDq"
 }
 var btn1 = document.getElementById("btn1")
 btn1.onclick = function () {
-    window.location.href = "https://mail.google.com/mail/u/1/#inbox?compose=PNRMKjRmlKdVTnMkXhMdQdTdLtSXshclVMZWlqgGLjrCpCxNBMzRvrsqMnGqBsLnhkQwllLXmDtJQDq"
+    window.location.href = "https://www.linkedin.com/in/sa-sanush/"
 }
 var btn2 = document.getElementById("btn2")
 btn2.onclick = function () {
-    window.location.href = "https://www.linkedin.com/in/sa-sanush/"
-}
-var btn3 = document.getElementById("btn3")
-btn3.onclick = function () {
     window.location.href = "https://github.com/SA-Sanush"
 }
