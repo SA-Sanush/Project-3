@@ -13,7 +13,7 @@ body {
 }
 
 body {
-  background-color: black;
+  background-color: #262424;
   height: 100%;
   width: 100%;
 }
@@ -60,11 +60,11 @@ a:hover:after {
 .container #box1 {
   height: 700px;
   width: 500px;
-  background-color: darkgray;
+  background-color: #EEE5DA;
   margin-left: 510px;
   margin-top: 100px;
   border-radius: 10px;
-  box-shadow: 0 4px 6px -1px darkgray;
+  box-shadow: 0 4px 6px -1px #EEE5DA;
   transition: 0.6s;
   /* margin-left: 100px; */
 }
@@ -83,13 +83,13 @@ a:hover:after {
   margin-top: 35px;
 }
 
-.container #box1 #btn{
-   position: relative;
-   margin-left: 210px;
-   background-color: rgb(106, 102, 102);
-   /* border-radius: 20px; */
-   height: 40px;
-   width: 60px;
+.container #box1 #btn {
+  position: relative;
+  margin-left: 210px;
+  background-color: #262424;
+  /* border-radius: 20px; */
+  height: 40px;
+  width: 60px;
   background-color: transparent;
   border-radius: 4rem;
   border: 0.2rem solid rgb(103, 98, 98);
@@ -130,13 +130,13 @@ button:active {
   transform: scale(0.9);
 }
 
-.container #box1 #btn1{
-   position: relative;
-   margin-left: 210px;
-   background-color: rgb(106, 102, 102);
-   /* border-radius: 20px; */
-   height: 40px;
-   width: 65px;
+.container #box1 #btn1 {
+  position: relative;
+  margin-left: 210px;
+  background-color: rgb(106, 102, 102);
+  /* border-radius: 20px; */
+  height: 40px;
+  width: 65px;
   background-color: transparent;
   border-radius: 4rem;
   border: 0.2rem solid rgb(103, 98, 98);
@@ -146,13 +146,13 @@ button:active {
   -webkit-text-stroke: 0.5px;
 }
 
-.container #box1 #btn2{
-   position: relative;
-   margin-left: 200px;
-   background-color: rgb(106, 102, 102);
-   /* border-radius: 20px; */
-   height: 40px;
-   width: 80px;
+.container #box1 #btn2 {
+  position: relative;
+  margin-left: 200px;
+  background-color: rgb(106, 102, 102);
+  /* border-radius: 20px; */
+  height: 40px;
+  width: 80px;
   background-color: transparent;
   border-radius: 4rem;
   border: 0.2rem solid rgb(103, 98, 98);
@@ -162,13 +162,13 @@ button:active {
   -webkit-text-stroke: 0.5px;
 }
 
-.container #box1 #btn3{
-   position: relative;
-   margin-left: 205px;
-   background-color: rgb(106, 102, 102);
-   /* border-radius: 20px; */
-   height: 40px;
-   width: 70px;
+.container #box1 #btn3 {
+  position: relative;
+  margin-left: 205px;
+  background-color: rgb(106, 102, 102);
+  /* border-radius: 20px; */
+  height: 40px;
+  width: 70px;
   background-color: transparent;
   border-radius: 4rem;
   border: 0.2rem solid rgb(103, 98, 98);
@@ -178,7 +178,7 @@ button:active {
   -webkit-text-stroke: 0.5px;
 }
 
-.container #img img{
+.container #img img {
   position: absolute;
   height: 250px;
   width: 200px;
