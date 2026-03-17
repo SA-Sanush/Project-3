@@ -14,13 +14,13 @@ body {
 }
 
 body {
-  background-color: black;
+  background-color: #262424;
   height: 100%;
   width: 100%;
 }
 
 #head {
-  color: white;
+  color: #EEE5DA;
   /* font-family: poppins; */
   margin: 4rem;
   padding-left: 4%;
@@ -81,7 +81,7 @@ h3 {
 }
 
 p {
-  color: darkgrey;
+  color: #EEE5DA;
   margin-left: 67rem;
   margin-top: 1rem;
   font-size: 2rem;
@@ -149,7 +149,7 @@ img:hover {
 }
 
 #txt span {
-  color: rgb(105, 101, 101);
+  color: #EEE5DA;
 }
 
 button {
@@ -160,7 +160,7 @@ button {
   margin-top: 2rem;
   background-color: transparent;
   border-radius: 4rem;
-  border: 0.3rem solid white;
+  border: 0.3rem solid #EEE5DA;
   transition: 0.3s ease all;
   z-index: 1;
 }
@@ -209,7 +209,7 @@ button:active {
 }
 
 .txt1 span:hover {
-  color: white;
+  color: #EEE5DA;
   transition: all linear 0.7s;
 }
 
