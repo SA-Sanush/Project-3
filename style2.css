@@ -12,7 +12,7 @@ html {
 }
 
 body {
-  background-color: black;
+  background-color: #262424;
   height: 100%;
   width: 100%;
 }
@@ -66,10 +66,10 @@ a:hover:after {
 .container #box1 {
   height: 200px;
   width: 200px;
-  background-color: darkgray;
+  background-color: #EEE5DA;
   margin-top: 100px;
   border-radius: 10px;
-  box-shadow: 0 4px 6px -1px darkgray;
+  box-shadow: 0 4px 6px -1px #EEE5DA;
   transition: 0.6s;
   /* margin-left: 100px; */
 }
@@ -81,10 +81,10 @@ a:hover:after {
 .container #box2 {
   height: 200px;
   width: 200px;
-  background-color: darkgray;
+  background-color: #EEE5DA;
   margin-top: 100px;
   border-radius: 10px;
-  box-shadow: 0 4px 6px -1px darkgray;
+  box-shadow: 0 4px 6px -1px #EEE5DA;
   transition: 0.6s;
   /* margin-left: 300px; */
 }
@@ -96,10 +96,10 @@ a:hover:after {
 .container #box3 {
   height: 200px;
   width: 200px;
-  background-color: darkgray;
+  background-color: #EEE5DA;
   margin-top: 100px;
   border-radius: 10px;
-  box-shadow: 0 4px 6px -1px darkgray;
+  box-shadow: 0 4px 6px -1px #EEE5DA;
   transition: 0.6s;
   /* margin-left: 300px; */
 }
@@ -111,10 +111,10 @@ a:hover:after {
 .container #box4 {
   height: 200px;
   width: 200px;
-  background-color: darkgray;
+  background-color: #EEE5DA;
   margin-top: 100px;
   border-radius: 10px;
-  box-shadow: 0 4px 6px -1px darkgray;
+  box-shadow: 0 4px 6px -1px #EEE5DA;
   transition: 0.6s;
   /* margin-left: 300px; */
 }
@@ -204,10 +204,10 @@ a:hover:after {
 .container2 #box5 {
   height: 200px;
   width: 200px;
-  background-color: darkgray;
+  background-color: #EEE5DA;
   margin-top: 100px;
   border-radius: 10px;
-  box-shadow: 0 4px 6px -1px darkgray;
+  box-shadow: 0 4px 6px -1px #EEE5DA;
   transition: 0.6s;
   /* margin-left: 300px; */
 }
@@ -219,10 +219,10 @@ a:hover:after {
 .container2 #box6 {
   height: 200px;
   width: 200px;
-  background-color: darkgray;
+  background-color: #EEE5DA;
   margin-top: 100px;
   border-radius: 10px;
-  box-shadow: 0 4px 6px -1px darkgray;
+  box-shadow: 0 4px 6px -1px #EEE5DA;
   transition: 0.6s;
   /* margin-left: 300px; */
 }
@@ -234,10 +234,10 @@ a:hover:after {
 .container2 #box7 {
   height: 200px;
   width: 200px;
-  background-color: darkgray;
+  background-color: #EEE5DA;
   margin-top: 100px;
   border-radius: 10px;
-  box-shadow: 0 4px 6px -1px darkgray;
+  box-shadow: 0 4px 6px -1px #EEE5DA;
   transition: 0.6s;
   /* margin-left: 300px; */
 }
@@ -249,10 +249,10 @@ a:hover:after {
 .container2 #box8 {
   height: 200px;
   width: 200px;
-  background-color: darkgray;
+  background-color: #EEE5DA;
   margin-top: 100px;
   border-radius: 10px;
-  box-shadow: 0 4px 6px -1px darkgray;
+  box-shadow: 0 4px 6px -1px #EEE5DA;
   transition: 0.6s;
   /* margin-left: 300px; */
 }
@@ -264,10 +264,10 @@ a:hover:after {
 .container3 #box9 {
   height: 200px;
   width: 200px;
-  background-color: darkgray;
+  background-color: #EEE5DA;
   margin-top: 100px;
   border-radius: 10px;
-  box-shadow: 0 4px 6px -1px darkgray;
+  box-shadow: 0 4px 6px -1px #EEE5DA;
   transition: 0.6s;
   /* margin-left: 300px; */
 }
@@ -279,10 +279,10 @@ a:hover:after {
 .container3 #box10 {
   height: 200px;
   width: 200px;
-  background-color: darkgray;
+  background-color: #EEE5DA;
   margin-top: 100px;
   border-radius: 10px;
-  box-shadow: 0 4px 6px -1px darkgray;
+  box-shadow: 0 4px 6px -1px #EEE5DA;
   transition: 0.6s;
   /* margin-left: 300px; */
 }
@@ -340,7 +340,7 @@ a:hover:after {
   margin-bottom: 10px;
 }
 .container3 #box10 h2 {
-  color: black;
+  color: #262424;
   margin: 0;
 }
 
