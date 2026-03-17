@@ -13,7 +13,7 @@ body {
 }
 
 body {
-  background-color: black;
+  background-color: #262424;
   height: 100%;
   width: 100%;
 }
@@ -64,11 +64,11 @@ a:hover:after {
 .container #box1 {
   height: 350px;
   width: 500px;
-  background-color: darkgray;
+  background-color: #EEE5DA;
   margin-left: 6px;
   margin-top: 100px;
   border-radius: 10px;
-  box-shadow: 0 4px 6px -1px darkgray;
+  box-shadow: 0 4px 6px -1px #EEE5DA;
   transition: 0.6s;
   /* margin-left: 100px; */
 }
@@ -80,11 +80,11 @@ a:hover:after {
 .container #box2 {
   height: 350px;
   width: 500px;
-  background-color: darkgray;
+  background-color: #EEE5DA;
   margin-left: 5px;
   margin-top: 100px;
   border-radius: 10px;
-  box-shadow: 0 4px 6px -1px darkgray;
+  box-shadow: 0 4px 6px -1px #EEE5DA;
   transition: 0.6s;
   /* margin-left: 100px; */
 }
@@ -96,11 +96,11 @@ a:hover:after {
 .container #box3 {
   height: 350px;
   width: 500px;
-  background-color: darkgray;
+  background-color: #EEE5DA;
   margin-left: 5px;
   margin-top: 100px;
   border-radius: 10px;
-  box-shadow: 0 4px 6px -1px darkgray;
+  box-shadow: 0 4px 6px -1px #EEE5DA;
   transition: 0.6s;
   /* margin-left: 100px; */
 }
@@ -259,8 +259,7 @@ p {
     font-size: 1.8rem;
   }
 
-
-.container #box1 h3,
+  .container #box1 h3,
   .container #box2 h3,
   .container #box3 h3 {
     margin-left: 0;
